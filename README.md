@@ -7,7 +7,7 @@ Following problems are solved by methods of dynamic programming, Monte-Carlo pol
 
 - Gambler's Problem
 
-- JacksCarRential
+- JacksCarRental
 
 - Bandit
 
